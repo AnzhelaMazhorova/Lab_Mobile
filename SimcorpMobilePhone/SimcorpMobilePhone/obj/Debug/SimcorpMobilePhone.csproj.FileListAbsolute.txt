@@ -1,0 +1,7 @@
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\obj\Debug\SimcorpMobilePhone.csprojAssemblyReference.cache
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\obj\Debug\SimcorpMobilePhone.csproj.CoreCompileInputs.cache
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\bin\Debug\SimcorpMobilePhone.exe.config
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\bin\Debug\SimcorpMobilePhone.exe
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\bin\Debug\SimcorpMobilePhone.pdb
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\obj\Debug\SimcorpMobilePhone.exe
+D:\C# projects\SimcorpMobilePhone\SimcorpMobilePhone\obj\Debug\SimcorpMobilePhone.pdb
